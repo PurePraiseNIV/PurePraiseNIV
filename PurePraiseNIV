@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PurePraiseNIV </title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(to right, #6a3093, #a044ff, #37ecba);
+            color: #fff;
+        }
+        header {
+            background-color: rgba(0, 0, 0, 0.7);
+            padding: 20px 0;
+            text-align: center;
+            color: #fff;
+        }
+        nav {
+            background-color: rgba(0, 0, 0, 0.8);
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: #fff;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        section {
+            padding: 20px;
+            margin: 20px 0;
+            background-color: rgba(0, 0, 0, 0.5);
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+        }
+        h2 {
+            color: #fff;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+            text-align: justify;
+        }
+        footer {
+            background-color: rgba(0, 0, 0, 0.7);
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Welcome to the PurePraiseNIV Community</h1>
+        <h2>Growing in Faith, Together in Praise</h2>
+    </header>
+
+    <nav>
+        <a href="#purpose">Purpose</a>
+        <a href="#mission">Our Mission</a>
+        <a href="#reason">Our Reason</a>
+        <a href="#staff">Our Staff</a>
+        <a href="#discord">Discord Server</a>
+        <a href="#youtube">YouTube Channel</a>
+        <a href="#events">Upcoming Events</a>
+        <a href="#contact">Contact Us</a>
+        <a href="#staff">Our Staff</a>
+    </nav>
+
+    <div class="container">
+
+        <section id="purpose">
+            <h2>Our Purpose</h2>
+            <p>
+                The PurePraiseNIV Community exists to create a space where believers from all walks of life can come together to grow in their faith, share in worship, and support one another in their spiritual journeys. We believe in the power of fellowship and the transformative effect of living a life dedicated to praising God and following His teachings.
+            </p>
+        </section>
+
+        <section id="mission">
+            <h2>Our Mission</h2>
+            <p>
+                Our mission is to provide a platform that nurtures spiritual growth, fosters genuine connections, and encourages believers to live out their faith daily. Through our Discord server and YouTube channel, we aim to share the message of Christ, offer resources for discipleship, and create a community that reflects the love and grace of Jesus.
+            </p>
+        </section>
+
+        <section id="reason">
+            <h2>Our Reason</h2>
+            <p>
+                At the heart of PurePraiseNIV is a desire to see lives transformed by the Gospel. We understand that the journey of faith can be challenging, and having a supportive community makes all the difference. Our reason for being is to provide that support, to lift each other up in prayer, to worship together, and to grow closer to God as a united body of believers.
+            </p>
+        </section>
+
+        <section id="staff">
+            <h2>Meet Our Staff</h2>
+            <div class="staff-member">
+        
+                <h3>Teigyn 1</h3>
+                <p>Role: Founder</p>
+                <p>Bio: As the founder of PurePraiseNIV, Teigyn has been a dedicated Presbyterian Christian since childhood. With a passion for creating a welcoming and inclusive space, she seeks to provide others with the opportunity to draw closer to God. With a heart for community building and a deep love for the Word of God, [he/she/they] fosters an environment where everyone can explore their relationship with Jesus. [Your Name] believes in the power of fellowship and prayer, and is dedicated to inspiring and supporting others on their spiritual journeys. Through engaging events and meaningful discussions, [he/she/they] aims to bring people closer to God and each other.
+
+                    .</p>
+            </div>
+            <div class="staff-member">
+               
+                <h3>Kejsi 2</h3>
+                <p>Role: Co-Founder</p>
+                <p>Bio: Kejsi is a vital co-founder of PurePraiseNIV, whose unwavering support and dedication have been instrumental in bringing this community to life. With a heart for service and a genuine love for God, Kejsi works alongside Teigyn to create a nurturing environment where individuals can connect and grow in their faith. Her enthusiasm and commitment to fostering fellowship inspire those around her, and she plays a key role in organizing events and engaging with members. Together with Teigyn, Kejsi is dedicated to helping others experience the love of Christ and build meaningful relationships within the community.</p>
+            </div>
+            <!-- Add more staff members as needed -->
+        </section>
+        
+
+        <section id="discord">
+            <h2>Join Our Discord Server</h2>
+            <p>PurePraiseNIV's discord server is a vibrant and Christ-centered community dedicated to deepening our faith and lifting each other up in worship and fellowship. Whether you're looking to study the Bible, join in prayer, or simply connect with like-minded believers, our server offers a warm and supportive environment for spiritual growth. Together, we journey through Scripture, share in praise, and encourage one another to live out our faith daily. Come join us as we grow closer to God and each other in a community where everyone is valued and loved.</p>
+            <p><a href="<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PurePraiseNIV Community</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(to right, #6a3093, #a044ff, #37ecba);
+            color: #fff;
+        }
+        header {
+            background-color: rgba(0, 0, 0, 0.7);
+            padding: 20px 0;
+            text-align: center;
+            color: #fff;
+        }
+        nav {
+            background-color: rgba(0, 0, 0, 0.8);
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: #fff;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        section {
+            padding: 20px;
+            margin: 20px 0;
+            background-color: rgba(0, 0, 0, 0.5);
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+        }
+        h2 {
+            color: #fff;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+            text-align: justify;
+        }
+        footer {
+            background-color: rgba(0, 0, 0, 0.7);
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+
+    </nav>
+
+   
+
+</body>
+</html>
+Join the Discord Server</a></p>
+        </section>
+
+        <section id="youtube">
+            <h2>Subscribe to Our YouTube Channel</h2>
+            <p>Dive deep into the rich and diverse world of biblical study and historical context with us. On this channel, we unravel complex topics related to spirituality, history, and faith, providing thoughtful insights and fresh perspectives.
+                Whether you're a long-time believer, a history enthusiast, or someone curious about the deeper meanings of biblical passages, there's something here for you. Let’s explore these ancient teachings together and see how they resonate in our lives today.</p>
+            <p><a href=https://www.youtube.com/@PurePraiseNIV target="_blank" style="color: #37ecba;">Subscribe on YouTube</a></p>
+        </section>
+
+        <section id="events">
+            <h2>Upcoming Events</h2>
+            <p>🌟 <strong>30 Days with Jesus</strong> - We are thrilled to invite you to join us for a transformative journey as we embark on 30 Days with Jesus this September! For the entire month, we'll be diving into the Word, exploring the life and teachings of Jesus through daily scripture readings.</p>
+            
+            <p>🗓 <strong>Event Details:</strong></p>
+            <p>Start Date: September 1st<br>
+            End Date: September 30th<br>
+            Focus: Daily scripture readings, following the life of Jesus Christ.</p>
+        
+            <p>📖 <strong>Daily Reading Timetable:</strong></p>
+            <ul>
+                <li>September 1: John 1:1-51</li>
+                <li>September 2: Luke 2:1-52</li>
+                <li>September 3: Mark 1:1-11</li>
+                <li>September 4: Luke 4:1-44</li>
+                <li>September 5: John 3:1-36</li>
+                <li>September 6: Luke 5:1-39</li>
+                <li>September 7: John 4:1-49</li>
+                <li>September 8: Luke 6:1-49</li>
+                <li>September 9: Luke 7:1-50</li>
+                <li>September 10: Luke 8:1-56</li>
+                <li>September 11: Mark 8:1-38</li>
+                <li>September 12: Luke 10:1-42</li>
+                <li>September 13: Matthew 5:1-48</li>
+                <li>September 14: Matthew 6:1-34</li>
+                <li>September 15: Matthew 7:1-29</li>
+                <li>September 16: Luke 14:1-35</li>
+                <li>September 17: Luke 15:1-32</li>
+                <li>September 18: Luke 16:1-31</li>
+                <li>September 19: John 8:1-59</li>
+                <li>September 20: Luke 17:1-37</li>
+                <li>September 21: Luke 18:1-43</li>
+                <li>September 22: John 9:1-41</li>
+                <li>September 23: Luke 19:1-48</li>
+                <li>September 24: Luke 20:1-47</li>
+                <li>September 25: John 10:1-42</li>
+                <li>September 26: John 11:1-57</li>
+                <li>September 27: Mark 13:1-37</li>
+                <li>September 28: Luke 22:1-71</li>
+                <li>September 29: Matthew 27:1-66</li>
+                <li>September 30: Luke 24:1-53</li>
+            </ul>
+        
+            <p>💬 <strong>How to Participate:</strong></p>
+            <ul>
+                <li>Simply follow along with the daily readings on the <a href="https://discord.gg/gWFabVFxJf" target="_blank">Discord Server</a>
+                    .</li>
+                <li>Reflect on the passages and share your insights in the <a href="https://discord.gg/gWFabVFxJf" target="_blank"> #30DaysWithJesus</a>
+                    channel.</li>
+                <li>Engage with others on the <a href="https://discord.gg/gWFabVFxJf" target="_blank">server</a>
+                    to discuss the impact of these readings on your faith.</li>
+            </ul>
+        
+            <p>This is more than just a reading plan; it's an opportunity to deepen your relationship with Jesus and connect with a community of believers. Whether you're new to faith or have been walking with Jesus for years, this event is for you!</p>
+        
+            <p><strong>Join us as we spend 30 days with Jesus—let’s grow together in His love and truth.</strong></p>
+        </section>
+        
+            <p>More events coming soon!</p>
+        </section>
+
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>If you have any questions or need assistance, feel free to reach out to us!</p>
+            <p>Email: <a href=purepraiseniv@gmail.com.com style="color: #37ecba;">purepraiseniv@gmail.com.com</a></p>
+        </section>
+        
+    </div>
+
+    <footer>
+        <p>&copy; 2024 PurePraiseNIV. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
